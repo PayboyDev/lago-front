@@ -291,7 +291,7 @@ const CreateBillableMetric = () => {
                       label={translate('text_633d410368cc8282af232131')}
                       helperText={<Typography html={translate('text_633d410368cc8282af232143')} />}
                       placeholder={translate('text_633d410368cc8282af23213d')}
-                      customInvalidError="text_633b622c201ca8b521bcad59"
+                      customInvalidError={translate('text_633b622c201ca8b521bcad59')}
                       formikProps={formikProps}
                     />
 
